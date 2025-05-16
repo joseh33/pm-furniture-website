@@ -1,6 +1,6 @@
 import React from 'react';
 
-const colors = ['red', 'blue', 'green', 'white'];
+const colors = ['grey', 'blue', 'green', 'white'];
 
 const ColorFilterSidebar = ({ setColorFilter }) => {
   const handleColorChange = (e) => {
